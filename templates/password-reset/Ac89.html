@@ -8,21 +8,35 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<title>Password Reset / Email Templates for developers</title>
 		<style>
-      body {
+			html,
+			body {
+				margin: 0 auto !important;
+				padding: 0 !important;
+				height: 100% !important;
+				width: 100% !important;
         font-family: sans-serif;
-        margin: 0;
-        padding: 0;
         line-height: 1.4;
         -webkit-font-smoothing: antialiased;
         -ms-text-size-adjust: 100%;
         -webkit-text-size-adjust: 100%; 
       }
+			* {
+				-ms-text-size-adjust: 100%;
+			}
+			table,
+			td {
+				mso-table-lspace: 0pt !important;
+				mso-table-rspace: 0pt !important;
+			}
       img {
 				display: block;
         border: none;
         max-width: 100%; 
         -ms-interpolation-mode: bicubic;
       }
+			a {
+				text-decoration: none;
+			}
 		</style>
 		<!--------------------------------
 			|	/ Brand colors
@@ -53,12 +67,14 @@
 		marginheight="0" 
 		offset="0" 
 		bgcolor="#F3F5F9"
-		style="background: #F3F5F9;"
+		width="100%"
+		style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; background: #F3F5F9;"
 	>
 		<!-- 
 			| email container
 		-->
-		<table 
+		<table
+			role="presentation"
 			align="center" 
 			valign="top" 
 			border="0" 
@@ -92,6 +108,7 @@
 						| top header outside the wrapper
 					-->
 					<table 
+						role="presentation"
 						align="center" 
 						border="0" 
 						cellpadding="0" 
@@ -115,7 +132,8 @@
 										margin: 0; 
 										padding: 0; 
 										line-height: 14px; 
-										font-weight: bold;"
+										font-weight: bold;
+										padding: 0 20px;"
 								>
 									To ensure delivery, add <a href="mailto:no-reply@company.com" style="color: #0069FF">no-reply@company.com</a> to your address book	
 								</p>
@@ -144,6 +162,7 @@
 						| email wrapper
 					-->
 					<table 
+						role="presentation"
 						align="center" 
 						border="0" 
 						cellpadding="0" 
@@ -192,6 +211,7 @@
 									| content container 
 								-->
 								<table 
+									role="presentation"
 									align="center" 
 									border="0" 
 									cellpadding="0" 
@@ -202,7 +222,8 @@
 										border-collapse: collapse; 
 										vertical-align: top; 
 										padding: 0; 
-										margin: 0;"
+										margin: 0;
+										width: 100%;"
 								>
 									<tr>
 										<td align="center">
@@ -212,7 +233,7 @@
 											<img 
 												src="https://moiseshp.github.io/email-templates-for-developers/storage/logo_blue--v.png" 
 												width="140"
-												style="border: none; display: block; width: 140px"
+												style="border: none; display: block; max-width: 140px; width: 100%"
 											>
 										</td>
 									</tr>			
@@ -290,21 +311,44 @@
 									<tr>
 										<td align="center">
 											<table 
+												role="presentation"
 												border="0" 
 												cellpadding="0" 
 												cellspacing="0" 
-												width="300" 
-												style="width: 300px;
+												width="440" 
+												style="max-width: 440px;
 													border-spacing: 0; 
 													border-collapse: collapse; 
 													vertical-align: top;
-													margin: 0 auto"
+													margin: 0;
+													width: 100%;"
 											>
 												<tr>
-													<td>
+													<td width="70" style="width: 70px">
+														<img 
+															src="https://moiseshp.github.io/email-templates-for-developers/storage/transparent.png" 
+															width="1" 
+															height="1" 
+															border="0" 
+															style="display: block; border: none" 
+														/>
+													</td>
+													<td 
+														style="font-family: Arial, Helvetica, sans-serif;
+															width: 300px; 
+															background-color: #0248FF; 
+															background-image: linear-gradient(-45deg, #0248FF, #0069FF); 
+															color: #FFF; 
+															height: 55px; 
+															line-height: 55px; 
+															border-radius: 4px; 
+															text-align: center; 
+															font-weight: bold;"
+													>
 														<a 
 															href="#"
-															style="width: 100%; 
+															style="font-family: Arial, Helvetica, sans-serif;
+																width: 100%; 
 																background-color: #0248FF; 
 																background-image: linear-gradient(-45deg, #0248FF, #0069FF); 
 																color: #FFF; 
@@ -315,10 +359,19 @@
 																font-weight: bold; 
 																display: block; 
 																text-decoration: none;
-																font-family: Arial, Helvetica, sans-serif;"
+																cursor: pointer;"
 														>
 															Change password
 														</a>
+													</td>
+													<td width="70" style="width: 70px">
+														<img 
+															src="https://moiseshp.github.io/email-templates-for-developers/storage/transparent.png" 
+															width="1" 
+															height="1" 
+															border="0" 
+															style="display: block; border: none" 
+														/>
 													</td>
 												</tr>
 											</table>	
@@ -427,6 +480,7 @@
 						| footer legals
 					-->
 					<table 
+						role="presentation"
 						align="center" 
 						valign="top" 
 						border="0" 
@@ -495,7 +549,17 @@
 
 				</td>
 			</tr>
-			<tr><td height="40">&nbsp;</td></tr>
+			<tr>
+				<td height="40">
+					<img 
+						src="https://moiseshp.github.io/email-templates-for-developers/storage/transparent.png" 
+						width="1" 
+						height="1" 
+						border="0" 
+						style="display: block; border: none" 
+					/>	
+				</td>
+			</tr>
 		</table>
 		<!-- 
 			| END / email container
