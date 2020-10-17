@@ -1,4 +1,4 @@
-![](https://s3-eu-west-1.amazonaws.com/userlike-cdn-blog/20171113-development/header-development-news.png)
+<!-- ![](https://s3-eu-west-1.amazonaws.com/userlike-cdn-blog/20171113-development/header-development-news.png) -->
 
 # Email Templates for Developers
 
@@ -14,21 +14,16 @@ All the templates available in this repositories passed the test successfully in
 
 ## Template list
 #### Activation Code
-* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
-* [Ab94](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
+* [-](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Comming soon
 
 #### Payments
-* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
-* [Ab94](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
+* [-](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Comming soon
 
 #### Password Reset
-* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
-* [Ab94](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
+* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - v1.0
 
 #### Verify Account
-* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
-* [Ab94](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
+* [-](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Comming soon
 
 #### Welcome users
-* [Ac98](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
-* [Ab94](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Description template
+* [-](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - Comming soon
