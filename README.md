@@ -14,7 +14,7 @@ This repository attempts to cover best practices for design and layout in creati
 
 All the templates available in this repositories passed the test successfully in **Gmail** and **Outlook** services in the desktop and mobile version. If you want to verify use the [**Litmus online tool**](https://putsmail.com/tests/new) to send a template to any email address for design testing and debugging.
 
-## Template Available
+## Templates Available
 #### Activation Code
 * [-]() - Comming soon
 
