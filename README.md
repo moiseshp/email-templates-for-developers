@@ -22,7 +22,8 @@ All the templates available in this repositories passed the test successfully in
 * [-]() - Comming soon
 
 #### Password Reset
-* [**Ac98**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html) - With user name gretting.
+* [**Ac98**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html)
+* [**Sb51**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Sb51.html)
 
 #### Verify Account
 * [-]() - Comming soon
@@ -32,3 +33,12 @@ All the templates available in this repositories passed the test successfully in
 
 ## About templates
 Initially created as a personal repository but now open to the community. Feel free to use all the html templates for your personal projects or with your company.
+
+##  Authors
+Moisés Huaringa
+
+## Dummy Logo Maker
+DUMMY LOGO MAKER is an easy, fast and even fun way to create your own dummy logo for your projects. [**Visit the page here**](https://moiseshp.github.io/dummy-logo-maker).
+
+## License
+This project is released under the MIT license.
