@@ -24,6 +24,7 @@ All the templates available in this repositories passed the test successfully in
 #### Password Reset
 * [**Ac98**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ac89.html)
 * [**Sb51**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Sb51.html)
+* [**Ar18**](https://moiseshp.github.io/email-templates-for-developers/templates/password-reset/Ar18.html)
 
 #### Verify Account
 * [-]() - Comming soon
