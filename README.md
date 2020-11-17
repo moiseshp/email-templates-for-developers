@@ -16,7 +16,8 @@ All the templates available in this repositories passed the test successfully in
 
 ## Templates Available
 #### Activation Code
-* [-]() - Comming soon
+* [**Ar18**](https://moiseshp.github.io/email-templates-for-developers/templates/verification-code/Ar18.html)
+* [**As33**](https://moiseshp.github.io/email-templates-for-developers/templates/verification-code/As33.html)
 
 #### Payments
 * [-]() - Comming soon
